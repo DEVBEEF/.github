@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co/zQNxWmD/devbeef.png" /> 
+  <a href="https://devbeef.com"><img src="https://i.ibb.co/1R4PQHv/devbeef-new-logo-github.png" alt="DEVBEEF"/></a>
 </div>
 
 <hr>
